@@ -1,0 +1,23 @@
+h1 {
+  font-size: 40px;
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+}
+
+a {
+  font-size: 30px;
+}
+
+#intro {
+  font-size: 30px;
+}
+
+.blurb {
+  color: red;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+  
+}
